@@ -12,7 +12,7 @@
 #include "AudioFileSourceID3.h"
 #include "AudioFileSourceLittleFS.h"
 #include "AudioFileSourcePROGMEM.h"
-#include "AudioFileSourceSD.h"
+//#include "AudioFileSourceSD.h"
 #include "AudioFileSourceSPIFFS.h"
 #include "AudioFileSourceSPIRAMBuffer.h"
 #include "AudioFileSourceSTDIO.h"
